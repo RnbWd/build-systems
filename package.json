@@ -1,7 +1,7 @@
 {
   "name": "@rnbwd/build-systems",
   "description": "build-systems",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "David Wisner",
   "bugs": {
     "url": "https://github.com/RnbWd/build-systems/issues"
