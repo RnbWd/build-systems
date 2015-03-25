@@ -1,0 +1,22 @@
+{
+  "name": "@rnbwd/build-systems",
+  "version": "0.0.0",
+  "description": "build-systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RnbWd/build-systems.git"
+  },
+  "keywords": [
+    "build"
+  ],
+  "author": "David Wisner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RnbWd/build-systems/issues"
+  },
+  "homepage": "https://github.com/RnbWd/build-systems"
+}
