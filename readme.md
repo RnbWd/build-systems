@@ -1,22 +1,6 @@
-# @rnbwd/build-systems 
+# @rnbwd/build-systems
 
 build-systems
-
-## Installation
-
-Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
-
-```sh
-npm install @rnbwd/build-systems --save
-```
-
-
-## Tests
-
-```sh
-npm install
-npm test
-```
 
 ## Dependencies
 
