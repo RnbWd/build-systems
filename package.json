@@ -1,22 +1,25 @@
 {
   "name": "@rnbwd/build-systems",
-  "version": "0.0.0",
   "description": "build-systems",
+  "version": "0.0.0",
+  "author": "David Wisner",
+  "bugs": {
+    "url": "https://github.com/RnbWd/build-systems/issues"
+  },
+  "homepage": "https://github.com/RnbWd/build-systems",
+  "keywords": [
+    "build"
+  ],
+  "license": "MIT",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
+  "publishConfig": {
+    "registry": "https://npm.nasync.com"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/RnbWd/build-systems.git"
   },
-  "keywords": [
-    "build"
-  ],
-  "author": "David Wisner",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/RnbWd/build-systems/issues"
-  },
-  "homepage": "https://github.com/RnbWd/build-systems"
+  "scripts": {
+    "test": "mocha"
+  }
 }
